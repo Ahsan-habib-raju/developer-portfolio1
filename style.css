@@ -64,5 +64,10 @@ font-weight: 700;
 .develop-unlimited{
     background-image: url(shapes/shape-1.png);
     background-repeat: no-repeat;
+    background-position: left;
+}
+.global-community{
+    background-image: url(shapes/shape-1.png);
+    background-repeat: no-repeat;
     background-position: right;
 }
