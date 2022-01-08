@@ -71,3 +71,7 @@ font-weight: 700;
     background-repeat: no-repeat;
     background-position: right;
 }
+.corona-site{
+    background-image: url(shapes/shape-2.png)
+    background-repeat: no-repeat;
+}
